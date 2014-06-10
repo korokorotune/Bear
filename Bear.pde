@@ -30,7 +30,7 @@ void body() {
 
 void bear() {
   beginShape();
-  stroke(0);
+  stroke(100);
   strokeWeight(3);
   fill(255, 175, 13);
   ellipse(380, 240, 60, 60);
